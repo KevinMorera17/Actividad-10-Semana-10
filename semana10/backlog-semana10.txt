@@ -1,0 +1,3 @@
+1. Como ciudadano quiero registrar una incidencia o problema en la vía pública para dejar evidencia del caso y alertar a las autoridades.
+2. Como coordinador quiero recibir una alerta en Telegram para revisar un nuevo reporte ciudadano de inmediato.
+3. Como miembro del equipo quiero consultar la lista total de reportes para hacer seguimiento al estado de cada caso.
